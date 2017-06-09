@@ -1,0 +1,2 @@
+# aglo
+my algorithms database
